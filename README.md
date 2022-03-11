@@ -36,7 +36,7 @@ I used a number of open-source data sets from Instacart as well as a fabricated 
 [Customer Dataset](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
 [Orders and Products Dataset](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip)
 ## Descriptions of Folders
-**01_Project_Management:** This folder contains the Project Brief (business questions related to the project, analysis, expectations etc.)
+1. **01_Project_Management:** This folder contains the Project Brief (business questions related to the project, analysis, expectations etc.)
 **02_Data:** This folder contains the original datasets as well as Prepared Datasets after wrangling, cleaning and consistency checks, newly derived variables, and combined into one final dataset. The prepared datasets were exported after each step was completed.
 **03_Scripts:** This folder contains all my Jupyter Scripts with Python Codes necessary to complete the project.
 **04_Analysis:** This folder contains all visualisations created with Python to support the analysis and to derive insights.
