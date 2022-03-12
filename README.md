@@ -33,8 +33,10 @@ ordering, and anything else you can think of.
 I used a number of open-source data sets from Instacart as well as a fabricated customers datasetn for the purpose of this Project.
 ## Links
 ### Datasets
-[Customer Dataset](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
-[Orders and Products Dataset](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip)
+-[Customer Dataset](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
+-[Orders and Products Dataset](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip)
+-[Departments Dataset](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.4_departments.zip)
+-[Orders Products Prior](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/order_products__prior.zip)
 ## Descriptions of Folders
 - **01_Project_Management:** This folder contains the Project Brief (business questions related to the project, analysis, expectations etc.)
 - **02_Data:** This folder contains the original datasets as well as Prepared Datasets after wrangling, cleaning and consistency checks, newly derived variables, and combined into one final dataset. The prepared datasets were exported after each step was completed.
